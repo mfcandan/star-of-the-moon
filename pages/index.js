@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Star from "../components/Star";
-import PersonCard from "../components/personCard";
+import PersonCard from "../components/PersonCard";
 import styles from "../styles/Home.module.scss";
 
 export const person = {
